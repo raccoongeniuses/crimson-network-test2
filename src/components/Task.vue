@@ -17,7 +17,7 @@ export default {
   props: {
     task: Object,
   },
-};
+}; //
 </script>
 
 <style scope>
